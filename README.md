@@ -1,3 +1,31 @@
+# Flutter-Nylo Boilerplate
+
+This project is a boilerplate for creating mobile apps using Flutter with Nylo framework. It contains elements and UI components commonly used in mobile app
+
+
+
+
+### Features
+* Firebase Authentication using Google, Anonymous, Email/Password 
+* Login, Register and Forgot Password
+* Splash Screen
+* Integration with a GraphQL API
+* Form Input Validations
+
+#### Upcoming Features
+* _Custom AppBar with Search Bar and Burger Menu_
+* _Bottom Menu_
+* _State Management_
+
+
+### Technologies
+* Flutter 3.22.2
+* Nylo 5.30.0
+
+
+
+#### Nylo
+
 ![Nylo Banner](https://nylo.dev/images/nylo_logo_header.png)
 
 <p align="center">
@@ -6,55 +34,23 @@
   <a href="#"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nylo-core/nylo?style=plastic"></a>
 </p>
 
-## Nylo
-
-Nylo is a micro-framework for Flutter which is designed to help simplify developing apps. Every project provides a simple boilerplate and MVC pattern to help you build apps easier. 
-
-This project is open source and MIT-licenced, we welcome any contributions. You can join as a backer/sponsor to fund future development for this project [here](https://nylo.dev)
+Nylo is a micro-framework for Flutter which is designed to help simplify developing apps. Every project provides a simple boilerplate and MVC pattern to help you build apps easier. View Nylo documentation [docs](https://nylo.dev/docs) and visit [nylo.dev](https://nylo.dev)
 
 ---
 
-## Features
-Some core features available
-* [Routing](https://nylo.dev/docs/5.20.0/router).
-* [Themes and styling](https://nylo.dev/docs/5.20.0/themes-and-styling).
-* [Localization](https://nylo.dev/docs/5.20.0/localization).
-* [CLI for generating project files](https://nylo.dev/docs/5.20.0/metro).
-* [Elegant API Services for Networking](https://nylo.dev/docs/5.20.0/networking).
-* [Creating App Icons](https://nylo.dev/docs/5.20.0/app-icons).
-* [Project Configuration](https://nylo.dev/docs/5.20.0/configuration).
-* [Streamlined Project Structure](https://nylo.dev/docs/5.20.0/directory-structure).
+### Getting Started
 
-## Requirements
-* Dart >= 3.1.3
 
-## Getting Started
+#### Local Development setup
+* Install Flutter
+* Install Nylo's Metro
+* Clone this repo
 
-``` bash
-git clone https://github.com/nylo-core/nylo.git
-```
 
-## Documentation
-View our [docs](https://nylo.dev/docs) and visit [nylo.dev](https://nylo.dev)
+##### Commands
+* 
 
-## Changelog
-Please see [CHANGELOG](https://github.com/nylo-core/framework/blob/5.x/CHANGELOG.md) for more information what has changed recently.
 
-## Social
-* [Twitter](https://twitter.com/nylo_dev)
+### Licence
 
-## Security
-If you discover any security related issues, please email support@nylo.dev instead of using the issue tracker.
-
-## Contributors
-* [Anthony Gordon](https://github.com/agordn52)
-* [lpdevit](https://github.com/lpdevit)
-* [Abdulrasheed1729](https://github.com/Abdulrasheed1729)
-* [Rashid-Khabeer](https://github.com/Rashid-Khabeer)
-* [youssefKadaouiAbbassi](https://github.com/youssefKadaouiAbbassi)
-* [jeremyhalin](https://github.com/jeremyhalin)
-* [abdulawalarif](https://github.com/abdulawalarif)
-
-## Licence
-
-The MIT License (MIT). Please view the [License](https://github.com/nylo-core/nylo/blob/master/licence) File for more information.
+The MIT License (MIT). 
